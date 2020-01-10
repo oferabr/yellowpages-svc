@@ -3,7 +3,9 @@
 Simple service getting people information by query string
 
 
-
+#### install & start
+* yarn
+* yarn start 
 ## Docs 
 
 * ```/yellowPages/isAlive``` - endpoint for checking the availability of the service.
